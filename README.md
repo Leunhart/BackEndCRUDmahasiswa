@@ -2,3 +2,5 @@ TUGAS CODESPACE BACKEND
 
 Nama = Jeffry Sukmawidjaja
 NRP = 152022009
+
+API POSTMAN = https://api.postman.com/collections/35578154-45dcfb14-3d44-4f35-8436-056f3f41f186?access_key=PMAT-01JDEQP6CV5CP65YZ5HXG5XH85
