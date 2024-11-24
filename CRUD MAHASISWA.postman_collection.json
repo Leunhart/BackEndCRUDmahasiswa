@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "45dcfb14-3d44-4f35-8436-056f3f41f186",
+		"name": "CRUD MAHASISWA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "35578154"
+	},
+	"item": [
+		{
+			"name": "Get Data Mahasisiwa",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:3000/daftar/get"
+			},
+			"response": []
+		},
+		{
+			"name": "Post Data",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "http://localhost:3000/daftar/"
+			},
+			"response": []
+		},
+		{
+			"name": "Update Data",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": "http://localhost:3000/daftar/1"
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Data",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://localhost:3000/daftar/1"
+			},
+			"response": []
+		}
+	]
+}
